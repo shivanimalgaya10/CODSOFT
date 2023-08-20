@@ -1,2 +1,2 @@
 # CODSOFT
-This is an Number Guessing game(mini project) & i developed this game in netbeans Ide.
+This is an  java based Number Guessing game(mini project) & i developed this game in netbeans Ide.
